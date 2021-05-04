@@ -32,7 +32,7 @@ Models Used: Classification models: Logistic regression, Random
 Forest, LASSO and XGBoost
 
 Notes on notebooks:
-Each of the notebooks are organized in a stepwise manner and named accordingly along with numbering. For example 1 represents the first notebook and the description (in the case notebook 1 is importing dataset) is mentioned along with the number. 
+Each of the notebooks is organized in a stepwise manner and named accordingly along with numbering. For example 1 represents the first notebook and the description (in the case notebook 1 is importing dataset) is mentioned along with the number. 
 
 
 References:
