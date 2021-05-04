@@ -31,6 +31,10 @@ Tools Used:Pandas and its library scikit-learn, Seaborn
 Models Used: Classification models: Logistic regression, Random 
 Forest, LASSO and XGBoost
 
+Notes on notebooks:
+Each of the notebooks are organized in a stepwise manner and named accordingly along with numbering. For example 1 represents the first notebook and the description (in the case notebook 1 is importing dataset) is mentioned along with the number. 
+
+
 References:
 Pauwels, E., Stoven, V., Yamanishi, Y., 2011. Predicting drug side-effect profiles: a chemical fragment-based approach. BMC Bioinform. 12 (1), 169. – Source of chemical substructures data
 DrugBankTM : Original source for Pauwel’s dataset
